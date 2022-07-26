@@ -1,3 +1,3 @@
 # Pets
 My pets  
-See the descriptions inside
+Descriptions are inside

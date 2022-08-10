@@ -1,3 +1,7 @@
 # Pets
 My pets  
-Descriptions are inside
+
+1:
+
+2:
+Hotel pricing. Catboost, pr_auc, roc_curve, feature_importance, shap

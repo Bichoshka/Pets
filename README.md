@@ -6,3 +6,6 @@ EDA, preprocessing, visualisation
 
 2:
 Hotel pricing. Catboost, pr_auc, roc_curve, feature_importance, shap
+
+3:
+Bank retention. Sklearn, plot_tree, unbalanced classes, upsampling

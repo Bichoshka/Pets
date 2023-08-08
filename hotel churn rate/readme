@@ -1,5 +1,7 @@
-Построение предиктивной модели оттока для сети отелей.
-> CatBoost, sklearn, shap
+Hotel churn rate prediction
 
-Данные о клиентах и отмене бронирования используются для рассчёта групп риска и предиктивной аналитики. 
-Построен "портрет" ненадёжного клиента, проиллюстрированы важные с точки зрения модели признаки.
+Binary classification task with basic machine learning approaches
+
+> CatBoost, sklearn, SHAP
+
+Status: Done
